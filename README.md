@@ -1,2 +1,3 @@
-# portfolio
-My collection of machine learning projects
+# Portfolio
+
+My collection of machine learning projects. More will be committed gradually ;)
